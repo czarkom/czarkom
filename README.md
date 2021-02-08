@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Currently studying IT with data science specialization on Warsaw University of Technology
+🌱 Currently studying IT with data science specialization at Warsaw University of Technology
 👯 Working in Emerge Consulting
 
 📫 How to reach me: 
