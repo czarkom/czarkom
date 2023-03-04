@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 Currently studying IT with data science specialization at Warsaw University of Technology
-👯 Working at Emerge Consulting
+👯 Working at Emerge Soft Inc. as Full Stack dev (Java EE & Vue.js)
 
 📫 How to reach me: 
 - **Email:** mczarkowski98@gmail.com
